@@ -2,7 +2,7 @@
 My Personal Obsidian Notebook
 
 ### Contents 
-* [Hacker One](/Hacker One)
+* [Hacker One](/Hacker-One)
 * [Hacking Tools](/Hacking%20Tools)
 * 
 
