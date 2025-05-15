@@ -1,0 +1,1 @@
+[Supported formats for internal links](https://help.obsidian.md/links#Supported+formats+for+internal+links)
