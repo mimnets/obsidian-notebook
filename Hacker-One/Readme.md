@@ -1,1 +1,1 @@
-# [Lean Hacking - Playlist](/Hacker-One/Learn Hacking Playlist)
+# [Lean Hacking - Playlist](/Hacker-One/Learn Hacking Playlist.md)
